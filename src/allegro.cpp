@@ -15,6 +15,7 @@
 #include <cstring>
 #include <fstream>
 #include <stdexcept>
+#include <algorithm>
 #include "allegro.h"
 #include "algrd_internal.h"
 #include "algsmfrd_internal.h"
